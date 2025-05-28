@@ -1,1 +1,61 @@
+MENU: SOBRE A EMPRESA
+Quem Somos
+A Holon Contabilidade é uma empresa especializada em serviços contábeis e de gestão, formada por profissionais altamente capacitados e com ampla experiência no mercado. Nossa atuação é pautada pela ética, transparência e pelo compromisso com os resultados dos nossos clientes.
 
+Acreditamos que o cliente é a figura mais importante do nosso trabalho, e por isso buscamos sempre oferecer soluções personalizadas, com foco na excelência, agilidade e segurança. Atuamos como parceiros estratégicos, contribuindo para o crescimento e a sustentabilidade dos negócios em um mundo cada vez mais dinâmico e competitivo.
+
+Nosso compromisso é com a qualidade, a confiança e a eficiência dos serviços prestados, proporcionando tranquilidade para que nossos clientes possam focar no que realmente importa: crescer com solidez.
+
+Missão
+Oferecer serviços contábeis de alto padrão e ideias estratégicas que multipliquem os resultados dos nossos clientes, proporcionando organização, confiabilidade e precisão nas informações.
+
+MENU: SERVIÇOS
+Assessoria Contábil e Financeira
+Auxiliamos na estruturação e gestão contábil e financeira da sua empresa, oferecendo orientações que garantem uma tomada de decisão mais segura e estratégica.
+
+Contabilidade
+Serviços completos de escrituração contábil, adequados às normas vigentes, com relatórios claros e confiáveis para o controle e planejamento empresarial.
+
+Cálculos Financeiros, Trabalhistas e Tributários
+Elaboramos cálculos precisos para demandas judiciais e administrativas, como rescisões trabalhistas, atualizações monetárias, tributos e outros encargos legais.
+
+Imposto de Renda Pessoa Física e Jurídica
+Atendimento personalizado para declarações de IRPF e IRPJ, com planejamento tributário que visa reduzir a carga fiscal de forma legal e eficiente.
+
+Perícias Contábeis
+Atuamos em processos judiciais e extrajudiciais com perícias técnicas contábeis que oferecem respaldo confiável e fundamentado para decisões jurídicas.
+
+Consultoria e Assessoria
+Consultoria estratégica para empresas de todos os portes, com foco na melhoria de processos, cumprimento das obrigações legais e aumento da lucratividade.
+
+MENU: LINKS ÚTEIS
+Receita Federal
+
+Secretaria da Fazenda
+
+Simples Nacional
+
+Junta Comercial
+
+eSocial
+
+INSS
+
+Caixa Econômica (FGTS)
+
+Tabelas e Índices Econômicos
+
+Calendário Fiscal
+
+(Observação: os links serão inseridos no desenvolvimento do site.)
+
+MENU: CONTATO
+Holon Contabilidade
+📍 Endereço: [Inserir Endereço Completo]
+📞 Telefone: [Inserir Telefone]
+📧 E-mail: [Inserir E-mail]
+🌐 Atendimento: Segunda a Sexta, das 8h às 18h
+
+Fale Conosco
+Tem dúvidas, precisa de um orçamento ou deseja agendar uma reunião?
+Entre em contato conosco! Nossa equipe está pronta para atender você com atenção e profissionalismo.
