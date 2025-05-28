@@ -1,8 +1,7 @@
 LISTA DE PENDÊNCIAS:
 
 - Inserir imagens adequadas
-- Inserir CRC (Jean enviou)
-- Inserir CNPJ (Jean enviou)
+- Inserir CRC (Jean enviou) / CNPJ (Jean enviou): solicitar validação da versão disponível em https://paulacarolineqm.github.io/holon/site/documentos.html
 
 Sugestões de Jean:
 -> Criar aba tipo 'nossos clientes', podemos por alguns, ou somente logos para os sites deles, se tiverem, se bem q nao temos clientes muito grandes, mas tem o IAP Cursos q é famoso, deve ter um ou outro
