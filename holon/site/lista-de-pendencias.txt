@@ -1,10 +1,17 @@
 LISTA DE PENDÊNCIAS:
 
-- Retirar contato de Jean:  +55 84 99986-9180 inserir o de Márcia
 - Inserir imagens adequadas
 - Inserir CRC (Jean enviou)
 - Inserir CNPJ (Jean enviou)
 
-
+Sugestões de Jean:
 -> Criar aba tipo 'nossos clientes', podemos por alguns, ou somente logos para os sites deles, se tiverem, se bem q nao temos clientes muito grandes, mas tem o IAP Cursos q é famoso, deve ter um ou outro
--> Área de 'noticias', poderíamos pegar de determinadas fontes ou gerar com IA
+-> Área de 'noticias', poderíamos pegar de determinadas fontes ou gerar com IA: protótipo disponível em noticias.html
+
+Sugestões ML:
+-> Inserir um chatbot treinado com o conteúdo da empresa (legislação, etc): protótipo disponível em chatbot.html
+
+
+FEITO:
+
+- Retirar contato de Jean:  +55 84 99986-9180 inserir o de Márcia
