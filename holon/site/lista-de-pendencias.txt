@@ -7,3 +7,4 @@ LISTA DE PENDÊNCIAS:
 
 
 -> Criar aba tipo 'nossos clientes', podemos por alguns, ou somente logos para os sites deles, se tiverem, se bem q nao temos clientes muito grandes, mas tem o IAP Cursos q é famoso, deve ter um ou outro
+-> Área de 'noticias', poderíamos pegar de determinadas fontes ou gerar com IA
