@@ -1,3 +1,27 @@
+LOG - DESENVOLVIMENTO WEB + FTP + BACKUP
+
+- Iniciamos fazendo uma limpeza no servidor FTP (após identificar dezenas de arquivos maliciosos datados de 2021);
+- Pensamos em fazer o backup de todos os arquivos do servidor FTP, mas a varredura com antivirus da KingHost identificou corrompimento de muitos arquivos - além da totalidade dos arquivos terem origem no pacote de instalação do Joomla (sendo assim, não valeria a pena salvar visto que são centenas de arquivos padronizados e eles praticamente não possuem conteúdo específico da Holon); 
+- Após a limpeza, passamos novamente o antivirus (data Hora:30/05/2025 15:30; Tipo de análise:clamav; Servidor:web88f08; Diretório Quarentena:/home/holoncontabilidade/abuse-quarentena-202505301530) e o site já está liberado (precisamos aguardar até o DNS ser atualizado)
+- Identificamos que o domínio holoncontabilidade.com.br não está sendo gerenciado pela Kinghost (provavelmente está no Registro.br);
+- Diminuímos o tamanho da fonte (de 1 para 2) nos slides do index (solicitado pelas 'meninas', que acharam o tamanho h1 'gritante');
+- 
+
+
+A FAZER:
+-> Analisar o conteúdo dos bancos de dados e realizar limpeza geral;
+ 
+
+
+
+
+
+
+
+
+
+
+
 MENU: SOBRE A EMPRESA
 Quem Somos
 A Holon Contabilidade é uma empresa especializada em serviços contábeis e de gestão, formada por profissionais altamente capacitados e com ampla experiência no mercado. Nossa atuação é pautada pela ética, transparência e pelo compromisso com os resultados dos nossos clientes.
