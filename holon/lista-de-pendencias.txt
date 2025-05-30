@@ -10,9 +10,20 @@ LOG - DESENVOLVIMENTO WEB + FTP + BACKUP
 
 
 
+
+
+
+
+
+
+
+
+
 A FAZER:
+
 -> Analisar o conteúdo dos bancos de dados e realizar limpeza geral;
- 
+-> Trocar imagens do site todo;
+-> 
 
 
 
