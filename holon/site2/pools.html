@@ -198,10 +198,11 @@
         const vol = parseFloat(pool.volumeUSD);
         const ratio = vol / tvl;
 
+        // Mostra pools com volume acumulado pelo menos 0.5x o TVL
         if (tvl > 0 && ratio >= 0.5) {
           const row = document.createElement("tr");
           row.innerHTML = `
-            <td><a href="https://info.uniswap.org/#/polygon/pools/${pool.id}" target="_blank">Link</a></td>
+            <td><a href="https://info.uniswap.org/#/polygon/pools/${pool.id}" target="_blank">Ver</a></td>
             <td>${pool.token0.symbol}</td>
             <td>${pool.token1.symbol}</td>
             <td>${(pool.feeTier / 10000).toFixed(2)}</td>
